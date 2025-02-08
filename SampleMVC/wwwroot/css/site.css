@@ -27,6 +27,11 @@ table{
     width: 100%;
 }
 
+img{
+    width: 150px;
+    height: 250px;
+}
+
 td, th{
     border: 1px solid #dddddd;
     text-align: left;
